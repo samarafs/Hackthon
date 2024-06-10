@@ -1,0 +1,10 @@
+.photo {
+  position: absolute; /* Posicionamento absoluto para tirar da ordem normal do fluxo */
+  top: 0; /* Posiciona no topo do corpo */
+  left: 0; /* Posiciona na extrema esquerda do corpo */
+  right: 0; /* Estende até a extrema direita do corpo */
+  height: 40vh; /* Altura da imagem */
+  background: url("https://e69eyi2twi7.exactdn.com/wp-content/uploads/2023/06/rolls-of-clothing-fabric.jpg") center center; /* URL da imagem e centralização */
+  background-size: cover; /* Cobertura total */
+  padding: 10% 10px; 
+}

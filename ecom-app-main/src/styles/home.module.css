@@ -1,0 +1,28 @@
+/* .container {
+  background: url("/Sashi2.avif") center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  animation: slide 15s infinite;
+} */
+
+.container {
+  object-fit: cover;
+  width: 100%;
+}
+.home {
+  margin: 0 auto;
+  padding: 20px;
+  width: 100%;
+  position: relative;
+}
